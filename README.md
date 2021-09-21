@@ -1,4 +1,4 @@
-# Web-crawling-Python
+# Web-crawling
 
 * 웹 크롤링(Python, BeautifulSoup, Pandas, Matplotlib)을 통한 데이터 수집 및 시각화
 ![image](https://user-images.githubusercontent.com/59761622/134150581-8da94500-ca4f-485e-9fc3-4116c4ca9e08.png)
